@@ -1,4 +1,4 @@
-package com.situation;
+package com.situation.udf;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.flink.table.functions.ScalarFunction;

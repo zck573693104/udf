@@ -1,4 +1,4 @@
-package com.situation;
+package com.situation.udf;
 
 import org.apache.flink.api.common.typeinfo.TypeInformation;
 import org.apache.flink.api.common.typeinfo.Types;

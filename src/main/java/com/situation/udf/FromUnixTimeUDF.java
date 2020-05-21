@@ -1,6 +1,6 @@
-package com.situation;
+package com.situation.udf;
 
-import com.situation.utils.DateUtil;
+import com.situation.udf.util.DateUtil;
 import org.apache.flink.table.functions.ScalarFunction;
 
 import java.sql.Timestamp;
